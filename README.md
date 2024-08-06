@@ -1,8 +1,10 @@
+# ADG TASKS
+
 Created this project for submission of ADG club tasks.
 Was given a dataset about AI-Ml salaries and was asked to create a model on it.
 Data preprocessing, Data cleaning, feature Selection and Scaling is done.
 
-Models are: Linear Regression,
+Models I used are: Linear Regression,
             Decision Trees,
             Random Forests,
             Gradient Boosting regressor.
